@@ -8,7 +8,7 @@ Bike Share
 This project will give you analysis fo bike share. 
 
 ### Files used
-bikeshare.py, chicago.csv, new_york_city.csv and washington.csv
+bikeshare.py
 
 ### Credits
 https://pandas.pydata.org/pandas-docs/stable/reference/frame.html

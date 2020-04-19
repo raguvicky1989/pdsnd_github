@@ -13,5 +13,4 @@ bikeshare.py
 ### Credits
 https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
 https://kite.com/blog/python/pandas-groupby-count-value-count/
-https://www.w3schools.com/python/default.asp
 
